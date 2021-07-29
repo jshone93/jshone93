@@ -1,4 +1,4 @@
 - Hi, I’m Jack Shone
-- I’m interested in programming, investing and running.
 - I’m currently learning software development, starting with Javascript on codecademy.
+- I’m interested in programming, investing and running.
 - Email me: jackshone93@gmail.com
