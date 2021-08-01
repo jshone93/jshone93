@@ -1,5 +1,5 @@
 - Hi, I’m Jack Shone. Currently living in Aberdeen, Scotland.
 - I’m currently learning software development, starting with Javascript on codecademy.
-- I'm familar with HTML, CSS, Javascript, git, github and markdown.
+- I'm familiar with HTML, CSS, Javascript, git, github and markdown.
 - I’m interested in programming, investing and running.
 - Email me: jackshone93@gmail.com
