@@ -1,5 +1,5 @@
 - Hi, I’m Jack Shone. I live in Aberdeen, Scotland.
-- I’m currently learning software development and looking for a junior developer role.
-- I'm familiar with HTML, CSS, Javascript, Python, git, and SQL.
+- I’m looking for a junior developer role.
+- I'm familiar with HTML, CSS, Tailwind, Javascript, Python, git, and SQL.
 - I’m interested in programming, investing and running.
 - Email me: jackshone93@gmail.com
